@@ -1,0 +1,17 @@
+{
+  "name": "splay-tree",
+  "version": "0.0.0",
+  "discription": "Splay tree impementation",
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/alexpods/node-splay-tree.git"
+  },
+  "author": {
+    "name":  "Aleksey Podskrebyshev (Alex Pods)",
+    "email": "aleksey.podskrebyshev@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "1.10.0"
+  }
+}
