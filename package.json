@@ -1,6 +1,6 @@
 {
   "name": "splay-tree",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "discription": "Splay tree impementation",
   "repository": {
     "type": "git",
@@ -11,7 +11,11 @@
     "email": "aleksey.podskrebyshev@gmail.com"
   },
   "license": "MIT",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
   "devDependencies": {
-    "chai": "1.10.0"
+    "mocha": "2.1.0",
+    "chai":  "1.10.0"
   }
 }
