@@ -1,7 +1,7 @@
 {
   "name": "splay-tree",
   "version": "0.1.0",
-  "discription": "Splay tree impementation",
+  "description": "Splay tree impementation",
   "repository": {
     "type": "git",
     "url":  "git://github.com/alexpods/node-splay-tree.git"
