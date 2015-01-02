@@ -1,13 +1,13 @@
 {
   "name": "splay-tree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Splay tree impementation",
   "repository": {
     "type": "git",
-    "url":  "git://github.com/alexpods/node-splay-tree.git"
+    "url": "git://github.com/alexpods/node-splay-tree.git"
   },
   "author": {
-    "name":  "Aleksey Podskrebyshev (Alex Pods)",
+    "name": "Aleksey Podskrebyshev (Alex Pods)",
     "email": "aleksey.podskrebyshev@gmail.com"
   },
   "license": "MIT",
@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "mocha": "2.1.0",
-    "chai":  "1.10.0"
+    "chai": "1.10.0"
   }
 }
